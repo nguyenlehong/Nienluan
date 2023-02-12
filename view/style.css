@@ -1,0 +1,224 @@
+
+
+.chinhgiua{
+    text-align: center;
+}
+.menu {
+    padding-bottom: 40px;
+    padding-top: 15px;
+}
+.text-reset{
+    text-decoration: none;
+}
+.formdangky{
+    width: 100%;
+    height: 600px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.dangky{
+    width: 60%;
+    height: auto;
+    float: right;
+    margin-right: 10px;
+    padding: 15px;
+    border-left: 2px black solid;
+}
+.dangnhap{
+    width: 38%;
+    height: 300px;
+    margin-left: 10px;
+    padding: 15px;
+
+}
+.dangnhap button{
+    width: 100%;
+
+}
+.dangky button{
+    width: 100%;
+
+}
+.sanphammoi{
+width: 100%;
+height: 600px;
+}
+
+.footer{
+    margin-top: 20px;
+}
+.danhmucsp{
+    height: auto;
+    width: 100%;
+}
+.danhmuc{
+    width: 20%;
+    height: auto;
+
+    float: left;
+    padding-left: 20px;
+    margin-right: 10px;;
+}
+.danhmuc ul li{
+list-style-type: none;
+}
+.listsanpham{
+height: auto;
+width: 1200px;
+float: left;
+}
+.boxsp{
+    width: 350px;
+    height:auto;
+    border: 1px solid black;
+    float: left;
+    margin-right:30px;
+    margin-bottom: 20px;
+    
+}
+.themdm{
+border-radius: 5px;
+border: 1px solid #ced4da;
+width: 70%;
+margin: 0 auto;
+padding: 10px;
+}
+.themdm2{
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    }
+.width{
+    width: 100px;
+}
+.title{
+    width: 70%;
+    margin: 0 auto;
+}
+.mr{
+    text-align: right;
+    margin-right:10px;
+    padding-right: 10px;;
+}
+.width30{
+    width: 300px;
+}
+.width50{
+    width: 50px;
+}
+.width300{
+    width: 300px;
+}
+.width200{
+    width: 250px;
+}
+.left{
+    float: left;
+    margin: 5px;
+}
+
+.dangky2{
+    width: 40%;
+    height: auto;
+    float: right;
+    margin-right: 10px;
+    padding: 15px;
+    border-left: 2px black solid;
+}
+.dangnhap2{
+    width: 58%;
+    height: auto;
+    margin-left: 10px;
+    padding: 15px;
+
+}
+.spct{
+    border-radius: 5px;
+    
+    width: 80%;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 10px;  
+}
+
+.hinhct{
+width: 50%;
+height: auto;
+
+float: left;
+
+}
+.thongtinsp{
+    width: 40%;
+    height: 500px;
+ 
+    float: right;
+    margin-right: 50px;
+}
+.tensp{
+    font-size:30px;
+    font-weight: 600;
+    font-family: Helvetica;
+    margin-top: 10px;
+}
+.fontsp{
+    font-family: Helvetica;
+    color:black;
+}
+.dkbantin{
+    width: 100%;
+    height: 300px;
+    background-color: #EFEFF4;
+    margin-top: 20px;
+}
+.dkbantin h2{
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 35px;
+}
+.dkbantin p{
+    text-align: center;
+    font-weight: 600;
+}
+.ipbt {
+    margin: 0 auto;
+  width: 600px;
+  margin-top: 30px;
+  height: 50px;
+ 
+}
+.ipbt input{
+    width: 500px;
+    height: 39px;
+}
+.iconbt{
+    padding-top: 20px;
+    width: 200px;
+    margin: 0 auto;
+}
+.hinhgiamgia2{
+    margin-top: 20px;
+    width: 100%;
+    height: 1000px;
+
+}
+.hinhgiamgia2 h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+.hinhgiamgia2 p {
+    text-align: center;
+
+}
+.gg {
+    width: 480px;
+    float: left;
+    height: auto;
+    margin-left: 10px;
+    
+}
+
